@@ -14,17 +14,11 @@
 
 ## Project Overview
 
--**Project Goal**: The HR Analytics Dashboard project aims to help HR professionals make data-driven decisions on employee retention, development, and recruitment using Power BI.
-
--**Technologies Used**: The project leverages Power BI, Advanced Excel, and Statistics for data analysis and visualization.
-
--**Key Metrics**: The dashboard focuses on key performance indicators (KPIs) such as employee count, attrition rate, active employees, and average age.
-
--**Visualizations**: Includes detailed visualizations like lollipop charts, bar charts, and pie charts to track attrition based on factors like gender, age, and job satisfaction.
-
--**Outcome**: The analysis revealed trends in employee attrition, particularly among salespeople due to salary and growth issues, offering actionable insights for HR to improve retention.
-
-
+**Project Goal**: The HR Analytics Dashboard project aims to help HR professionals make data-driven decisions on employee retention, development, and recruitment using Power BI.
+**Technologies Used**: The project leverages Power BI, Advanced Excel, and Statistics for data analysis and visualization.
+**Key Metrics**: The dashboard focuses on key performance indicators (KPIs) such as employee count, attrition rate, active employees, and average age.
+**Visualizations**: Includes detailed visualizations like lollipop charts, bar charts, and pie charts to track attrition based on factors like gender, age, and job satisfaction.
+**Outcome**: The analysis revealed trends in employee attrition, particularly among salespeople due to salary and growth issues, offering actionable insights for HR to improve retention.
 
 ## Data Source
 
