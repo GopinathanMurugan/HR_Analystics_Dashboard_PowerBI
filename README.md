@@ -13,7 +13,6 @@ This project focuses on creating a Power BI dashboard to assist HR professionals
 - [Recommendations](#recommendations)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -111,7 +110,4 @@ To set up the dashboard:
 
 Feel free to contribute to this project by forking the repository and submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
