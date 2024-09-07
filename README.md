@@ -15,6 +15,7 @@ This project focuses on creating a Power BI dashboard to assist HR professionals
 - [Contributing](#contributing)
 
 ## Project Overview
+![Dashboard](https://github.com/user-attachments/assets/1b39b7fd-fcaa-4c2f-8d2e-ccf27bce57df)
 
 ### Project Goal
 The HR Analytics Dashboard project aims to help HR professionals make data-driven decisions on employee retention, development, and recruitment using Power BI.
