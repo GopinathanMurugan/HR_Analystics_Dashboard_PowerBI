@@ -1,4 +1,4 @@
-# HR Analytics Dashboard Project
+# HR Analytics Dashboard
 
 This project focuses on creating a Power BI dashboard to assist HR professionals in making data-driven decisions regarding employee retention, development, and recruitment.
 
